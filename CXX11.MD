@@ -1,7 +1,7 @@
 <p>
 -----------------
-[LANG] ENG101 : English for Engineers – I  
-[LANG] ENG102 : English for Engineers – II  
+[LANG] ENG101 : English for Engineers â€“ I  
+[LANG] ENG102 : English for Engineers â€“ II  
 [LANG] ESP101 : Spanish Core (ESP101)
 ------------------
 [MGT.] HUM101 : Psychology and Sociology  
@@ -12,7 +12,7 @@
 [SCIENCES] CHY104 :  Environmental Studies
 [SCIENCES] PHY101 : Modern Physics
 -----------------
-[ICT] ITE101 : Problem Solving Using ‘C’ 
+[ICT] ITE101 : Problem Solving Using â€˜Câ€™ 
 [ICT] CSE109 : Digital Logic
 [ICT] CSE219 : Object Oriented Programming & Paradigm
 -----------------
@@ -49,8 +49,8 @@
 -----------------
 [CORE] MEE107 : Engineering Drawing - I
 [CORE] MEE108 : Engineering Drawing - II
-[CORE] MEE103 : Workshop Practice – I
-[CORE] MEE104 : Workshop Practice – II
+[CORE] MEE103 : Workshop Practice â€“ I
+[CORE] MEE104 : Workshop Practice â€“ II
 [CORE] MEE207 : Computer Aided Machine Drawing (CAMD) 
 [CORE] MEE307 : CAD/CAM (Modelling)
 -------------------
