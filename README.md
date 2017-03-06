@@ -5,4 +5,4 @@
 ---
    
 <http://14BME0133.guthub.io>
- <a mailto:14BME0133@gmail.com>hit</a>
+mailto: <14BME0133@gmail.com>
