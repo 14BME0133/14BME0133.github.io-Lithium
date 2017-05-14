@@ -40,23 +40,25 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
 * Twitter
   *  @14BME0133
   *  @itsN1X
+
+<br><br><br>
+
+
+---
+
+---
   
----
+  
+## Credits and Links: 
+All rights reserved.   
 
----
+# © NIKHIL PANDITA  
 
-
-## Site-Credits and Important Links: 
-All rights reserved. 
-
-# © NIKHIL PANDITA
-
-<HTTP://14BME0133.github.IO>
-<http://N1X.website>
+For <HTTP://14BME0133.github.IO> and <http://N1X.website> .  
  
 ---  
 
 ### Created : 01-08-2014T1100+5300
 ### Updated : 14-05-2017T1013+5300
-### Version : v3.175.30
+### Version : v3.175.32
 © <http://14BME0133.github.io>
