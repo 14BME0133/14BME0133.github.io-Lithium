@@ -1,7 +1,7 @@
-### WELCOME TO 14BME0133.io by [N1X](http://N1X.website)
+### WELCOME TO 14BME0133.io by [N 1 X](http://N1X.website)
 ---
 
-#### [Coursework](http://github.com/14BME0133) - [VIT University, Vellore](http://vit.ac.in) - [Curriculum Vitae](http://in.linkedin.com/in/itsN1X)
+#### [Coursework](http://github.com/14BME0133) - [VIT University](http://vit.ac.in) - [Curriculum Vitae](http://in.linkedin.com/in/itsN1X) - [vMozilla](http://campus.mozilla.community)
 (c) NIKHIL PANDITA 2014-2017.
 
 ### Authored and Contributed by :  
@@ -50,10 +50,12 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
 All rights reserved. 
 
 # © NIKHIL PANDITA
+
 <HTTP://14BME0133.github.IO>
 <http://N1X.website>
  
 ---  
+
 ### Created : 01-08-2014T1100+5300
 ### Updated : 14-05-2017T1013+5300
 ### Version : v3.175.24
