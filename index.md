@@ -22,7 +22,7 @@ I  aspire perfection in the domain of engineering, ushered by my blindfolded sc
 You can also follow a gist of my hobbies here at the Inter-Networks by logging onto http://n1x.website
     
 ## *Site Navigation for newcomers:* 
-Enter"http://14BME0133.github.io/" followed by the  subject code "XXXxxx" in your shell to shoot up the docs for the required course.     
+Enter "http://14BME0133.github.io/" followed by the  subject code "ZYX987" in your shell to shoot up the docs for the required course.     
 
 
 ## Eggs (Its not Easter, bud)
@@ -46,7 +46,7 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
 ---
 
 
-## Site-Credits : 
+## Site-Credits and Important Links: 
 All rights reserved. 
 
 # © NIKHIL PANDITA
