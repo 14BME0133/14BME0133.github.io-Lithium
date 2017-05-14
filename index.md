@@ -60,13 +60,13 @@ For <http://14BME0133.github.io> by <http://N1X.website> .
 
 ---  
 ---
-
+<font size =1>
 **Created : ** 01-08-2014T1100+5300
 
 **Updated : ** 14-05-2017T1318+5300
 
-**Version : ** v3.175.44
+**Version : ** v3.175.44</font>
 
 © <http://14BME0133.github.io> 
-<br>What's next?<br>with <3 <br>~itsN1X
+<br>What's next?<br>lotta <3 <br>~itsN1X
 
