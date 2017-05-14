@@ -68,5 +68,5 @@ For <http://14BME0133.github.io> by <http://N1X.website> .
 **Version : ** v3.175.44</font>
 
 © <http://14BME0133.github.io> 
-<br>What's next?<br>lotta <3 <br>~itsN1X
+<br>So, What's next?<br><3 <br>~itsN1X
 
