@@ -69,4 +69,4 @@ For <http://14BME0133.github.io> by <http://N1X.website> .
 
 © <http://14BME0133.github.io> 
 <br> So, what's next?<br>
-:heart: , N1X.
+<3, N1X.
