@@ -62,7 +62,7 @@ For <http://14BME0133.github.io> by <http://N1X.website> .
 ---
 
 <i>Version served</i>: v3.175.48<br>
-<p>Grateful to *UNIX >> and by Alma Maters.</p><br> 
+<p>Grateful to *UNIX >> and my Alma Maters.</p><br> 
 <i>Created </i>: 01-08-2014t1100+5300<br>
 <i>Updated :</i> 14-05-2017t1423+5300<br>
 © <http://14BME0133.github.io> 
