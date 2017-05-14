@@ -59,12 +59,11 @@ For <http://14BME0133.github.io> by <http://N1X.website> .
 
 
 ---  
----<h4>
-<p>Coded on *UNIX >><br> <i>Version served</i>: v3.175.48 .</p>
+---
 
+<p>Grateful to *UNIX >> |
+</p><br> <i>Version served</i>: v3.175.48 .</p>
 <i>Created </i>: 01-08-2014t1100+5300<br><i>Updated :</i> 14-05-2017t1423+5300<br>
-
-</h4>
 © <http://14BME0133.github.io> 
 <br>Up, What's next?<br>with <3 <br>~itsN1X
 
