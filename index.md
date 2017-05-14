@@ -68,4 +68,5 @@ For <http://14BME0133.github.io> by <http://N1X.website> .
 **Version : ** v3.175.37
 
 © <http://14BME0133.github.io> 
-<br> So, what's next?<br>with <3 from N1X:)
+<br> So, what's next?<br>
+:heart: , N1X.
