@@ -1,7 +1,7 @@
 ### WELCOME TO 14BME0133.io by [N1X](http://N1X.website)
 ---
 
-#### [Coursework](github.com/14BME0133) - [VIT University, Vellore](github.com/VITuni) - [Curriculum Vitae](http://in.linkedin.com/in/itsN1X)
+#### [Coursework](http://github.com/14BME0133) - [VIT University, Vellore](http://vit.ac.in) - [Curriculum Vitae](http://in.linkedin.com/in/itsN1X)
 (c) NIKHIL PANDITA 2014-2017.
 
 ### Authored and Contributed by :  
