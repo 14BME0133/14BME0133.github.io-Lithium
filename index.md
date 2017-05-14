@@ -25,7 +25,7 @@ You can also follow a gist of my hobbies here at the Inter-Networks by logging o
 Enter"http://14BME0133.github.io/" followed by the  subject code "XXXxxx" in your shell to shoot up the docs for the required course.     
 
 
-## Eggs (Its not Easter, bud) 
+## Eggs (Its not Easter, bud)
 Also, there are a lot of surprising and enticing reads flourishing in this webs partitions. However, to limit unduly access, I've temporarily disabled all meta-tags and hyperlinks, leading to a semi-private robots.txt ( NO, even thats off ya hands x"D ~for now atleast) 
     
 ---
