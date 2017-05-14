@@ -4,18 +4,19 @@
 #### Coursework - [VIT University, Vellore](github.com/vituni)
 (c) NIKHIL PANDITA 2014-2017.
 
-### Authors and Contributors
+### Authored and Contributed by :  
 @itsN1X c/c @14BME0133
 
 ---
  
  
 ## 14BME0133:
-I am better known as 14BME0133 in this realm. This  website is a comprehensive compilation of the work produced and directed towards the completion of 60 myriad, higher degree science, engineering and technology full-time undergraduate degree courses. 
+I am better known as 14BME0133 in this realm. This  website is (but not limited to) a comprehensive compilation of the work produced and directed towards the completion of myriad, higher degree science, engineering and technology full-time undergraduate degree courses. 
  
 ## Nikhil Pandita: 
 I'm a very nocturnal, anarchist sapien who believes in spreading peace.
 But basically here, I churn bauds off green silica..
+
 I  aspire perfection in the domain of engineering, ushered by my blindfolded scientific temparament, & am keenly devoted to it's R&D.
 
 You can also follow a gist of my hobbies here at the Inter-Networks by logging onto http://n1x.website
@@ -36,8 +37,8 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
    
 * Twitter
   *  @14BME0133
-  *  @itsN1X  
-    
+  *  @itsN1X
+   
 * IRC  
   *  #VitUni  
   *  #NixOS  
