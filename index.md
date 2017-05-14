@@ -48,17 +48,18 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
 
 ---
   
-  
-## Credits and Links: 
+<br><br><br>  
+## Credits, Declarartions and Links: 
+
 All rights reserved.   
 
 # © NIKHIL PANDITA  
 
-For <HTTP://14BME0133.github.IO> and <http://N1X.website> .  
+For <http://14BME0133.github.io> and <http://N1X.website> .  
  
 ---  
 
-### Created : 01-08-2014T1100+5300
-### Updated : 14-05-2017T1013+5300
-### Version : v3.175.32
+Created : 01-08-2014T1100+5300
+Updated : 14-05-2017T1013+5300
+Version : v3.175.34
 © <http://14BME0133.github.io>
