@@ -1,4 +1,7 @@
-### WELCOME TO 14BME0133.io by [N 1 X](http://N1X.website)
+### WELCOME TO 14BME0133.io 
+
+by [N 1 X](http://N1X.website)
+
 ---
 
 #### [Coursework](http://github.com/14BME0133) - [VIT University](http://vit.ac.in) - [Curriculum Vitae](http://in.linkedin.com/in/itsN1X) - [vMozilla](http://campus.mozilla.community)
