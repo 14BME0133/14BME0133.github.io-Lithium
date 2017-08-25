@@ -1,7 +1,5 @@
 ### WELCOME TO 14BME0133.io 
 
-by [N 1 X](http://N1X.website)
-
 ---
 
 #### [Coursework](http://github.com/14BME0133) - [VIT University](http://vit.ac.in) - [Curriculum Vitae](http://in.linkedin.com/in/itsN1X) - [vMozilla](http://campus.mozilla.community)
@@ -14,13 +12,7 @@ by [N 1 X](http://N1X.website)
  
  
 ## 14BME0133:
-I am better known as 14BME0133 in this realm. This  website is (but not limited to) a comprehensive compilation of the work produced and directed towards the completion of myriad, higher degree science, engineering and technology full-time undergraduate degree courses. 
- 
-## Nikhil Pandita: 
-I'm a very nocturnal, anarchist sapien who believes in spreading peace.
-But basically here, I churn bauds off green silica...
-
-I  aspire perfection in the domain of engineering, ushered by my blindfolded scientific temparament, & am keenly devoted to it's R&D.
+I am better known as 14BME0133 in this realm. This  website is (but not limited to) a comprehensive compilation of the work produced and directed towards the completion of myriad, higher degree science, engineering and technology full-time undergraduate degree courses. I  aspire perfection in the domain of engineering, ushered by my blindfolded scientific temparament, & am keenly devoted to it's advancement.
 
 You can also follow a gist of my hobbies here at the Inter-Networks by logging onto http://n1x.website
     
@@ -46,10 +38,6 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
    *  @14BME0133
    *  @itsN1X
 
-<br><br><br>
-
-
-<p>
 <br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [LANG] ENG101 : English for Engineers – I  
 <br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [LANG] ENG102 : English for Engineers – II  
 <br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [LANG] ESP101 : Spanish Core (ESP101)
@@ -99,11 +87,10 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
 <br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [OPEN] MEE499 : Final Year Project 
 
 ----------------
-<p>
+ 
 Content on [the 14 BME 0133 official website](http://14bme0133.githb.io) is updated on a tri-monthly basis. Check the footer for details.
 ---
-
-<br><br><br>  
+ 
 ## Credits, Declarartions and Links: 
 
 All rights reserved.   
