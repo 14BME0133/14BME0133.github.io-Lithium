@@ -1,0 +1,7 @@
+-title: 14bme0133.GitHub.io
+-description: Official homepage. (C) 2014 Nikhil Pandita
+-google_analytics: 
+-theme: jekyll-theme-hacker
+-
+-gems:
+-  - jekyll-mentions
