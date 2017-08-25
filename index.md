@@ -294,14 +294,14 @@ All rights reserved.
 
 # © 2017 NIKHIL PANDITA  
 
-For <http://14BME0133.github.io> by <http://N1X.website> and <http://N1X.site>.
-
-
 ---  
+
+Grateful to all \*UNIX # and my Alma Maters.  
+
 ---
 
 ### Vital stats:
-Grateful to all \*UNIX # and my Alma Maters.  
+
 [![ghit.me](https://ghit.me/badge.svg?repo=14BME0133/14BME0133.github.io)](https://ghit.me/repo/14BME0133/14BME0133.github.io)
 
 
