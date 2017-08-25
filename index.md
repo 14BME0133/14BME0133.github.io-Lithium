@@ -50,58 +50,57 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
 
 
 <p>
------------------
-<hr> Explore >> [click.me](http://14bme0133.github.io) [LANG] ENG101 : English for Engineers – I  
-<hr> Explore >> [click.me](http://14bme0133.github.io) [LANG] ENG102 : English for Engineers – II  
-<hr> Explore >> [click.me](http://14bme0133.github.io) [LANG] ESP101 : Spanish Core (ESP101)
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MGT.] HUM101 : Psychology and Sociology  
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MGT.] HUM121 : Ethics and Values 
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MGT.] MEE308 : Industrial Engineering and Management
-<hr> Explore >> [click.me](http://14bme0133.github.io) [SCIENCES] CHY101 :  Engineering Chemistry 
-<hr> Explore >> [click.me](http://14bme0133.github.io) [SCIENCES] CHY104 :  Environmental Studies
-<hr> Explore >> [click.me](http://14bme0133.github.io) [SCIENCES] PHY101 : Modern Physics
-<hr> Explore >> [click.me](http://14bme0133.github.io) [ICT] ITE101 : Problem Solving Using ‘C’ 
-<hr> Explore >> [click.me](http://14bme0133.github.io) [ICT] CSE109 : Digital Logic
-<hr> Explore >> [click.me](http://14bme0133.github.io) [ICT] CSE219 : Object Oriented Programming & Paradigm
-<hr> Explore >> [click.me](http://14bme0133.github.io) [EEE&EI] EEE101 :  Basic Electrical & Electronics Engineering
-<hr> Explore >> [click.me](http://14bme0133.github.io) [EEE&EI] MEE241 : Automotive Electronics and Instrumentation Systems
-<hr> Explore >> [click.me](http://14bme0133.github.io) [EEE&EI] MEE243 :  Fundamentals of Mechatronics Systems
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATH] MAT114 : Multivariable Calculus and Differential Equations
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATH] MAT115 : Differential and Difference Equations
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATH] MAT104 : Probability and Statistics
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATH] MAT201 : Complex Variables and Partial Differential Equations
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATH] MAT205 : Applied Numerical Methods
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATTER] MEE204 : Engineering Thermodynamics
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATTER] MEE206 : Fluid Mechanics 
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATTER] MEE216 : Thermal Engineering Systems
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATTER] MEE303 : Heat and Mass Transfer
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATTER] MEE304 : Turbomachines
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATERIALS] PHY102 : Material Sciences
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATERIALS] CHY102 : Materials and Instrumental Techniques 
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATERIALS] MEE203 : Materials Engineering and Technology 
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MATERIALS] MEE214 : Strength of Materials
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MFG.] MEE205 : Fundamentals of Manufacturing Processes
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MFG.] MEE217 : Machining Processes and Metrology 
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MFG.] MEE432: Tool Design
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MECH] MEE202 : Engineering Mechanics
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MECH] MEE215 : Kinematics of Machinery
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MECH] MEE301 : Dynamics of Machinery
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MECH] MEE302 : Design of Machine Elements
-<hr> Explore >> [click.me](http://14bme0133.github.io) [MECH] MEE306 : Design of Transmission Systems
-<hr> Explore >> [click.me](http://14bme0133.github.io) [CORE] MEE107 : Engineering Drawing - I
-<hr> Explore >> [click.me](http://14bme0133.github.io) [CORE] MEE108 : Engineering Drawing - II
-<hr> Explore >> [click.me](http://14bme0133.github.io) [CORE] MEE103 : Workshop Practice – I
-<hr> Explore >> [click.me](http://14bme0133.github.io) [CORE] MEE104 : Workshop Practice – II
-<hr> Explore >> [click.me](http://14bme0133.github.io) [CORE] MEE207 : Computer Aided Machine Drawing (CAMD) 
-<hr> Explore >> [click.me](http://14bme0133.github.io) [CORE] MEE307 : CAD/CAM (Modelling)
-<hr> Explore >> [click.me](http://14bme0133.github.io) [OPEN] MEE 305 : Design Project 
-<hr> Explore >> [click.me](http://14bme0133.github.io) [OPEN] MEE218 : Hardware Project
-<hr> Explore >> [click.me](http://14bme0133.github.io) [OPEN] MEE399 : Industrial Internship
-<hr> Explore >> [click.me](http://14bme0133.github.io) [OPEN] MEE499 : Final Year Project 
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [LANG] ENG101 : English for Engineers – I  
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [LANG] ENG102 : English for Engineers – II  
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [LANG] ESP101 : Spanish Core (ESP101)
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MGT.] HUM101 : Psychology and Sociology  
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MGT.] HUM121 : Ethics and Values 
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MGT.] MEE308 : Industrial Engineering and Management
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [SCIENCES] CHY101 :  Engineering Chemistry 
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [SCIENCES] CHY104 :  Environmental Studies
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [SCIENCES] PHY101 : Modern Physics
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [ICT] ITE101 : Problem Solving Using ‘C’ 
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [ICT] CSE109 : Digital Logic
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [ICT] CSE219 : Object Oriented Programming & Paradigm
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [EEE&EI] EEE101 :  Basic Electrical & Electronics Engineering
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [EEE&EI] MEE241 : Automotive Electronics and Instrumentation Systems
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [EEE&EI] MEE243 :  Fundamentals of Mechatronics Systems
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATH] MAT114 : Multivariable Calculus and Differential Equations
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATH] MAT115 : Differential and Difference Equations
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATH] MAT104 : Probability and Statistics
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATH] MAT201 : Complex Variables and Partial Differential Equations
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATH] MAT205 : Applied Numerical Methods
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATTER] MEE204 : Engineering Thermodynamics
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATTER] MEE206 : Fluid Mechanics 
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATTER] MEE216 : Thermal Engineering Systems
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATTER] MEE303 : Heat and Mass Transfer
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATTER] MEE304 : Turbomachines
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATERIALS] PHY102 : Material Sciences
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATERIALS] CHY102 : Materials and Instrumental Techniques 
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATERIALS] MEE203 : Materials Engineering and Technology 
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MATERIALS] MEE214 : Strength of Materials
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MFG.] MEE205 : Fundamentals of Manufacturing Processes
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MFG.] MEE217 : Machining Processes and Metrology 
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MFG.] MEE432: Tool Design
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MECH] MEE202 : Engineering Mechanics
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MECH] MEE215 : Kinematics of Machinery
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MECH] MEE301 : Dynamics of Machinery
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MECH] MEE302 : Design of Machine Elements
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [MECH] MEE306 : Design of Transmission Systems
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [CORE] MEE107 : Engineering Drawing - I
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [CORE] MEE108 : Engineering Drawing - II
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [CORE] MEE103 : Workshop Practice – I
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [CORE] MEE104 : Workshop Practice – II
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [CORE] MEE207 : Computer Aided Machine Drawing (CAMD) 
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [CORE] MEE307 : CAD/CAM (Modelling)
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [OPEN] MEE 305 : Design Project 
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [OPEN] MEE218 : Hardware Project
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [OPEN] MEE399 : Industrial Internship
+<br><hr> [ Explore >> click me ](https://14bme0133.github.io/14BME-index/) [OPEN] MEE499 : Final Year Project 
 
 ----------------
-</p>
-
+<p>
+Content on [the 14 BME 0133 official website](http://14bme0133.githb.io) is updated on a tri-monthly basis. Check the footer for details.
 ---
 
 <br><br><br>  
@@ -109,9 +108,9 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
 
 All rights reserved.   
 
-# © NIKHIL PANDITA  
+# © 2017 NIKHIL PANDITA  
 
-For <http://14BME0133.github.io> by <http://N1X.website> .
+For <http://14BME0133.github.io> by <http://N1X.website> and <http://N1X.site>.
 
 
 ---  
