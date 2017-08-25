@@ -236,9 +236,12 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
 ---
 ---
 
+
 ## Credits, Declarartions and Links: 
  
-#### Content on the [14 BME 0133]http://14bme0133.github.io) official website is updated on a tri-monthly basis. Check the footer for details.
+ 
+#### Content on the [14 BME 0133](http://14bme0133.github.io) official website is updated on a tri-monthly basis. Check the footer for details.
+
 All rights reserved.   
 
 # © 2017 NIKHIL PANDITA  
@@ -252,7 +255,6 @@ For <http://14BME0133.github.io> by <http://N1X.website> and <http://N1X.site>.
 ### Vital stats:
 
 [![ghit.me](https://ghit.me/badge.svg?repo=14bme0133/14bme0133.github.io)](https://ghit.me/repo/14bme0133/14bme0133.github.io)
-
 <i>Version served</i>: v4.01.68<br>ET: #D1120
 <p>Grateful to all *UNIX >> and my Alma Maters.</p><br>
 
