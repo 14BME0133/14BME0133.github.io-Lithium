@@ -16,7 +16,7 @@ I am better known as 14BME0133 in this realm. This  website is (but not limite
 
 You can also follow a gist of my hobbies here at the Inter-Networks by logging onto http://n1x.website
     
-# Site Navigation for newcomers: 
+## Site Navigation for newcomers: 
 Enter "http://14BME0133.github.io/" followed by the  subject code "ZYX987" in your shell to shoot up the docs for the required course.     
 
 
@@ -254,7 +254,8 @@ For <http://14BME0133.github.io> by <http://N1X.website> and <http://N1X.site>.
 
 ### Vital stats:
 < Version served >: v4.01.68 ET: #D1120
-<p>Grateful to all *UNIX # and my Alma Maters. >
+Grateful to all \*UNIX # and my Alma Maters.  
+[![ghit.me](https://ghit.me/badge.svg?repo=14BME0133/14BME0133.github.io)](https://ghit.me/repo/14BME0133/14BME0133.github.io)
 
 ---
 
