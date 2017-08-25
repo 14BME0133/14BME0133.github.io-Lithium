@@ -253,10 +253,8 @@ For <http://14BME0133.github.io> by <http://N1X.website> and <http://N1X.site>.
 ---
 
 ### Vital stats:
-
-[![ghit.me](https://ghit.me/badge.svg?repo=14bme0133/14bme0133.github.io)](https://ghit.me/repo/14bme0133/14bme0133.github.io)
-<i>Version served</i>: v4.01.68<br>ET: #D1120
-<p>Grateful to all *UNIX >> and my Alma Maters.</p><br>
+< Version served >: v4.01.68 ET: #D1120
+<p>Grateful to all *UNIX # and my Alma Maters. >
 
 ---
 
