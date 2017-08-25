@@ -302,8 +302,6 @@ Grateful to all \*UNIX # and my Alma Maters.
 
 ### Vital stats:
 
-[![ghit.me](https://ghit.me/badge.svg?repo=14BME0133/14BME0133.github.io)](https://ghit.me/repo/14BME0133/14BME0133.github.io)
-
 
 - Version served: v4.01.68 
 - ET: #D1120
@@ -311,6 +309,11 @@ Grateful to all \*UNIX # and my Alma Maters.
 - Updated: 25-08-2017t1653+0530
 
 ---
+
+<html>
+<a href="http://www.quick-counter.net/" title="HTML hit counter - Quick-counter.net"><img src="http://www.quick-counter.net/aip.php?tp=bb&tz=Asia%2FKolkata" alt="HTML hit counter - Quick-counter.net" border="0" /></a>
+</html>
+
 
 © <http://14BME0133.github.io> 
 <br>Up, What's next?<br>with <3 <br>~itsN1X
