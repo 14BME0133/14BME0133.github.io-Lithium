@@ -233,7 +233,7 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
 
 ----------------
  
-Content on [the 14 BME 0133 official website](http://14bme0133.githb.io) is updated on a tri-monthly basis. Check the footer for details.
+#### Content on [the 14 BME 0133 official website](http://14bme0133.github.io) is updated on a tri-monthly basis. Check the footer for details.
 ---
  
 ## Credits, Declarartions and Links: 
