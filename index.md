@@ -1,4 +1,4 @@
-### the official 14BME0133 homepage 
+### The official 14BME0133 homepage 
 
 ---
 
@@ -6,7 +6,7 @@
 (c) NIKHIL PANDITA 2014-2017.
 
 ### Authored and Contributed by :  
-@itsN1X c/c @14BME0133
+[@itsN1X](http://github.com/itsn1x) c/c [@14BME0133](http://github.com/14BME0133)
 
 ---
  
@@ -231,13 +231,14 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
  
  [ Details++ ](https://14bme0133.github.io/14BME-index/) [OPEN] MEE499 : Final Year Project 
 
-----------------
- 
-#### Content on [the 14 BME 0133 official website](http://14bme0133.github.io) is updated on a tri-monthly basis. Check the footer for details.
 ---
- 
-## Credits, Declarartions and Links: 
+---
+---
+---
 
+## Credits, Declarartions and Links: 
+ 
+#### Content on the [14 BME 0133]http://14bme0133.github.io) official website is updated on a tri-monthly basis. Check the footer for details.
 All rights reserved.   
 
 # © 2017 NIKHIL PANDITA  
@@ -250,7 +251,7 @@ For <http://14BME0133.github.io> by <http://N1X.website> and <http://N1X.site>.
 
 ### Vital stats:
 
-[![ yolo ghit.me](https://ghit.me/badge.svg?repo=14bme0133/14bme0133.github.io)](https://ghit.me/repo/14bme0133/14bme0133.github.io)
+[![ghit.me](https://ghit.me/badge.svg?repo=14bme0133/14bme0133.github.io)](https://ghit.me/repo/14bme0133/14bme0133.github.io)
 
 <i>Version served</i>: v4.01.68<br>ET: #D1120
 <p>Grateful to all *UNIX >> and my Alma Maters.</p><br>
