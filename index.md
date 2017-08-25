@@ -101,8 +101,9 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
 
 ----------------
 </p>
+
 ---
-</font></body>  
+
 <br><br><br>  
 ## Credits, Declarartions and Links: 
 
