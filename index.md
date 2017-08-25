@@ -1,4 +1,4 @@
-### WELCOME TO 14BME0133 homepage */.|.\*
+### the official 14BME0133 homepage 
 
 ---
 
@@ -252,12 +252,12 @@ For <http://14BME0133.github.io> by <http://N1X.website> and <http://N1X.site>.
 
 [![ yolo ghit.me](https://ghit.me/badge.svg?repo=14bme0133/14bme0133.github.io)](https://ghit.me/repo/14bme0133/14bme0133.github.io)
 
-<i>Version served</i>: v4.01.68<br>
+<i>Version served</i>: v4.01.68<br>ET: #D1120
 <p>Grateful to all *UNIX >> and my Alma Maters.</p><br>
 
 ---
 
 <br><i>Created </i>: 01-08-2014t1100+0530<br>
-<i>Updated :</i> 23-08-2017t1253+0530<br>
+<i>Updated :</i> 25-08-2017t1653+0530<br>
 © <http://14BME0133.github.io> 
 <br>Up, What's next?<br>with <3 <br>~itsN1X
