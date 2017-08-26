@@ -37,8 +37,8 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
    *  @14BME0133
    *  @itsN1X
 
+ NOTICE: IRC server has been rolled bak for integration. It should be back online by the end of august, most probably !
  
- ---
  
  ## Some Quick links for reference:
  
@@ -92,166 +92,6 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
  ---
  
  [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [ICT] ITE101 : Problem Solving Using ‘C’ 
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [ICT] CSE109 : Digital Logic
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [ICT] CSE219 : Object Oriented Programming & Paradigm
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [EEE&EI] EEE101 :  Basic Electrical & Electronics Engineering
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [EEE&EI] MEE241 : Automotive Electronics and Instrumentation Systems
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [EEE&EI] MEE243 :  Fundamentals of Mechatronics Systems
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATH] MAT114 : Multivariable Calculus and Differential Equations
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATH] MAT115 : Differential and Difference Equations
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATH] MAT104 : Probability and Statistics
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATH] MAT201 : Complex Variables and Partial Differential Equations
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATH] MAT205 : Applied Numerical Methods
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATTER] MEE204 : Engineering Thermodynamics
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATTER] MEE206 : Fluid Mechanics 
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATTER] MEE216 : Thermal Engineering Systems
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATTER] MEE303 : Heat and Mass Transfer
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATTER] MEE304 : Turbomachines
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATERIALS] PHY102 : Material Sciences
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATERIALS] CHY102 : Materials and Instrumental Techniques 
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATERIALS] MEE203 : Materials Engineering and Technology 
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MATERIALS] MEE214 : Strength of Materials
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MFG.] MEE205 : Fundamentals of Manufacturing Processes
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MFG.] MEE217 : Machining Processes and Metrology 
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MFG.] MEE432: Tool Design
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MECH] MEE202 : Engineering Mechanics
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MECH] MEE215 : Kinematics of Machinery
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MECH] MEE301 : Dynamics of Machinery
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MECH] MEE302 : Design of Machine Elements
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [MECH] MEE306 : Design of Transmission Systems
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [CORE] MEE107 : Engineering Drawing - I
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [CORE] MEE108 : Engineering Drawing - II
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [CORE] MEE103 : Workshop Practice – I
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
- [CORE] MEE104 : Workshop Practice – II
- 
- ---
- 
- [ Details++ ](https://14bme0133.github.io/14BME-index/) 
  [CORE] MEE207 : Computer Aided Machine Drawing (CAMD) 
  
  ---
@@ -286,6 +126,11 @@ Also, there are a lot of surprising and enticing reads flourishing in this webs 
 
 
 ## Credits, Declarartions and Links: 
+
+---
+---
+---
+---
  
  
 #### Content on the [14 BME 0133](http://14bme0133.github.io) official website is updated on a tri-monthly basis. Check the footer for details.
@@ -303,10 +148,10 @@ Grateful to all \*UNIX # and my Alma Maters.
 ### Vital stats:
 
 
-- Version served: v4.01.68 
-- ET: #D1120
+- Version served: v4.02.76
+- ET: #D1121
 - Created: 01-08-2014t1100+0530
-- Updated: 25-08-2017t1653+0530
+- Updated: 26-08-2017t1653+0530
 
 ---
 
