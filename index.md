@@ -1,4 +1,6 @@
-### The official 14BME0133 homepage 
+# < 1 4 B M E 0 1 3 3 / > The official 14BME0133 Inter-Network homepage. 
+
+<meta name="google-site-verification" content="ZaLznHFVqpm6T5OnD9mjmB9YJ_wzPN96FHxC8nxeMOU" />
 
 ---
 
@@ -109,12 +111,14 @@ Grateful to all \*UNIX # and my Alma Maters.
 - Created: 01-08-2014t1100+0530
 - Updated: 06-09-2017t1953+0530
 
+                   
+                   
 ---
 
-<HTML><HEAD>
-<meta name="google-site-verification" content="ZaLznHFVqpm6T5OnD9mjmB9YJ_wzPN96FHxC8nxeMOU" />
-</HEAD><BODY><BR>
+                   
+                   
+
+
 
 © <http://14BME0133.github.io> 
 <br>Up, What's next?<br>with <3<br>~itsN1X
-</BODY></HTML>
