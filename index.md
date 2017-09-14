@@ -8,7 +8,7 @@
 
 ---
 
-#### [Coursework](http://github.com/14BME0133/CXX11.txt) - [VIT University](http://vit.ac.in) - [Curriculum Vitae](http://in.linkedin.com/in/itsN1X) - [Sitemap](http://github.com/14BME0133/Sitemap/)
+#### [Coursework](http://github.com/14BME0133/CXX11.txt) - [VIT University](http://github.com/VITUni) - [Curriculum Vitae](http://in.linkedin.com/in/itsN1X) - [Sitemap](http://github.com/14BME0133/Sitemap/)
 (c) NIKHIL PANDITA 2014-2017.
 
 ### Authored and Contributed by :  
@@ -79,23 +79,23 @@ Feel free to wander around, it  [~~live in a coal mine~~](./) looks dark.
  
  ---
  
- [ ++ ](https://14bme0133.github.io/MEE305/) 
+ [ ++open ](https://14bme0133.github.io/MEE305/) 
  [OPEN] MEE 305 : Design Project  
 #### This ones from planetX : #AGL 
  
  ---
  
- [ ++ ](https://14bme0133.github.io/MEE218/) 
+ [ ++open ](https://14bme0133.github.io/MEE218/) 
  [OPEN] MEE218 : Hardware Project
  
  ---
  
- [ ++ ](https://14bme0133.github.io/MEE399/) 
+ [ ++open ](https://14bme0133.github.io/MEE399/) 
  [OPEN] MEE399 : Industrial Internship
  
  ---
  
- [ ++ ](https://14bme0133.github.io/MEE499/) 
+ [ ++open ](https://14bme0133.github.io/MEE499/) 
  [OPEN] MEE499 : Final Year Project 
 
 ---
