@@ -8,7 +8,7 @@
 
 ---
 
-#### [Coursework](http://github.com/14BME0133/CXX11.txt) - [VIT University](http://github.com/VITUni) - [Curriculum Vitae](http://in.linkedin.com/in/itsN1X) - [Sitemap](http://github.com/14BME0133/Sitemap/)
+#### [Coursework](http://github.com/14BME0133/CXX11.md) - [VIT University](http://github.com/VITUni) - [Curriculum Vitae](http://in.linkedin.com/in/itsN1X) - [Sitemap](http://github.com/14BME0133/wiki/)
 (c) NIKHIL PANDITA 2014-2017.
 
 ### Authored and Contributed by :  
