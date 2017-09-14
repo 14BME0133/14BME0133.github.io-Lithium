@@ -141,5 +141,5 @@ Grateful to all \*UNIX # and my Alma Maters.
 
 
 
-© <http://14BME0133.github.io> 
+© <httpS://14BME0133.github.io> 
 <br>Up, What's next?<br>with <3<br>~itsN1X
