@@ -25,9 +25,7 @@ I am better known as 14BME0133 in this realm. This  website is (but not limite
 Enter "http://14BME0133.github.io/" followed by the  subject code "ZYX987" in your shell to shoot up the docs for the required course. Also, there are a lot of surprising and enticing reads flourishing in this webs partitions. However, its limited -- to shunt unduly access, Things are fuuzy here.. No zer0s, neither a 0NE, but magically, precisely amid!  
 Feel free to wander around, it  [~~live in a coal mine~~](./) looks dark.
 
-
 ---
-
 
 ## Support and Contacts:
  
@@ -50,6 +48,19 @@ Feel free to wander around, it  [~~live in a coal mine~~](./) looks dark.
  [check them out](https://14bme0133.github.io/MEE1005/)
  
  #### Check back later this week for fresh news and hot updates.
+ 
+ <script>
+  (function() {
+    var cx = '011380102679472670052:nn3mtsoqyr0';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
  
  ---
  
