@@ -111,8 +111,10 @@ Grateful to all \*UNIX # and my Alma Maters.
 
 ---
 
-<a href="http://www.quick-counter.net/" title="HTML hit counter - Quick-counter.net"><img src="http://www.quick-counter.net/aip.php?tp=bb&tz=Asia%2FKolkata" alt="HTML hit counter - Quick-counter.net" border="0" /></a>
- 
+<HTML><HEAD>
+<meta name="google-site-verification" content="ZaLznHFVqpm6T5OnD9mjmB9YJ_wzPN96FHxC8nxeMOU" />
+</HEAD><BODY><BR>
 
 © <http://14BME0133.github.io> 
-<br>Up, What's next?<br>with <3 <br>~itsN1X
+<br>Up, What's next?<br>with <3<br>~itsN1X
+</BODY></HTML>
