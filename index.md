@@ -41,9 +41,7 @@ Feel free to wander around, it  [~~live in a coal mine~~](./) looks dark.
 
  NOTICE: IRC server has been rolled back for CircleCI integration. It should be back online by the end of septemb, most probably !  
  
- ---
- 
-<head> <script>  (function() {    var cx = '011380102679472670052:nn3mtsoqyr0';    var gcse = document.createElement('script');    gcse.type = 'text/javascript';    gcse.async = true;    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;    var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(gcse, s);  })();</script><gcse:search></gcse:search></head>
+---
 
 ---
 
@@ -129,5 +127,5 @@ Grateful to all \*UNIX # and my Alma Maters.
 
 
 
-© <httpS://14BME0133.github.io> 
+© <https://14BME0133.github.io> 
 <br>Up, What's next?<br>with <3<br>~itsN1X
