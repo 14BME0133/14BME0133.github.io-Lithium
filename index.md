@@ -12,12 +12,15 @@
  
  
 ## 14BME0133:
-I am better known as 14BME0133 in this realm. This  website is (but not limited to) a comprehensive compilation of the work produced and directed towards the completion of myriad, higher degree science, engineering and technology full-time undergraduate degree courses. I  aspire perfection in the domain of engineering, ushered by my blindfolded scientific temparament, & am keenly devoted to it's advancement. You can also follow a gist of my hobbies here at the Inter-Networks by logging onto http://n1x.website .
-    
-### Site Notes for newcomers: 
-Enter "http://14BME0133.github.io/" followed by the  subject code "ZYX987" in your shell to shoot up the docs for the required course. Also, there are a lot of surprising and enticing reads flourishing in this webs partitions. However, to limit unduly access, I've temporarily disabled all meta-tags and hyperlinks, leading to a semi-private robots.txt ( NO, even thats off ya hands x'D for now atleast!) 
-    
+I am better known as 14BME0133 in this realm. This  website is (but not limited to) a comprehensive compilation of the work produced and directed towards the completion of myriad, higher degree science, engineering and technology full-time undergraduate degree courses. I  aspire perfection in the domain of engineering, ushered by my blindfolded scientific temparament, & am keenly devoted to it's advancement. You can also follow a gist of my hobbies here at the Inter-Networks by logging onto http://n1x.website .  
+
+
+### Notes for Freshers:  
+Enter "http://14BME0133.github.io/" followed by the  subject code "ZYX987" in your shell to shoot up the docs for the required course. Also, there are a lot of surprising and enticing reads flourishing in this webs partitions. However, its limited -- to shunt unduly access, Things are fuuzy here.. No zer0s, neither a 1on, but magically, precisely amid.
+
+
 ---
+
 
 ## Support and Contacts:
  
@@ -36,38 +39,40 @@ Enter "http://14BME0133.github.io/" followed by the  subject code "ZYX987" in 
  
  ## Some Quick links for reference:
  
- rECENTLY UPLKOADED mATERIAL mICROSTRUCTURE nANAO vIEWS >> 
+ RECENTLY UPLOADED **MATERIAL MICROSTRUCTURE VIEWS** under a #CarlZeiss200xD 
+ [check them out](https://14bme0133.github.io/MEE1005/)
  
  #### Check back later this week for fresh news and hot updates.
  
  ---
  
- [ Details++ ](https://14bme0133.github.io/MEE207/) 
+ [ ++ ](https://14bme0133.github.io/MEE207/) 
  [CORE] MEE207 : Computer Aided Machine Drawing (CAMD) 
  
  ---
  
- [ Details++ ](https://14bme0133.github.io/MEE307/) 
- [CORE] MEE307 : CAD/CAM (Modelling)
+ [ ++ ](https://14bme0133.github.io/MEE307/) 
+ [CORE] MEE307 : CAD/CAM (Design && Manuafacturing)
  
  ---
  
- [ Details++ ](https://14bme0133.github.io/MEE305/) 
+ [ ++ ](https://14bme0133.github.io/MEE305/) 
  [OPEN] MEE 305 : Design Project 
+ ##### This ones really cool! #AGL 
  
  ---
  
- [ Details++ ](https://14bme0133.github.io/MEE218/) 
+ [ ++ ](https://14bme0133.github.io/MEE218/) 
  [OPEN] MEE218 : Hardware Project
  
  ---
  
- [ Details++ ](https://14bme0133.github.io/MEE399/) 
+ [ ++ ](https://14bme0133.github.io/MEE399/) 
  [OPEN] MEE399 : Industrial Internship
  
  ---
  
- [ Details++ ](https://14bme0133.github.io/MEE499/) 
+ [ ++ ](https://14bme0133.github.io/MEE499/) 
  [OPEN] MEE499 : Final Year Project 
 
 ---
