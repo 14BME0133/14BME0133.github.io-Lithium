@@ -1,6 +1,10 @@
-# < 1 4 B M E 0 1 3 3 / > The official 14BME0133 Inter-Network homepage. 
-
+----
 <meta name="google-site-verification" content="ZaLznHFVqpm6T5OnD9mjmB9YJ_wzPN96FHxC8nxeMOU" />
+----
+
+# < 1 4 B M E 0 1 3 3 / > 
+### The official 14BME0133 Inter-Network homepage. 
+
 
 ---
 
@@ -17,8 +21,9 @@
 I am better known as 14BME0133 in this realm. This  website is (but not limited to) a comprehensive compilation of the work produced and directed towards the completion of myriad, higher degree science, engineering and technology full-time undergraduate degree courses. I  aspire perfection in the domain of engineering, ushered by my blindfolded scientific temparament, & am keenly devoted to it's advancement. You can also follow a gist of my hobbies here at the Inter-Networks by logging onto http://n1x.website .  
 
 
-### Notes for Freshers:  
-Enter "http://14BME0133.github.io/" followed by the  subject code "ZYX987" in your shell to shoot up the docs for the required course. Also, there are a lot of surprising and enticing reads flourishing in this webs partitions. However, its limited -- to shunt unduly access, Things are fuuzy here.. No zer0s, neither a 1on, but magically, precisely amid.
+### Notes for NEWCOMERS:  
+Enter "http://14BME0133.github.io/" followed by the  subject code "ZYX987" in your shell to shoot up the docs for the required course. Also, there are a lot of surprising and enticing reads flourishing in this webs partitions. However, its limited -- to shunt unduly access, Things are fuuzy here.. No zer0s, neither a 0NE, but magically, precisely amid!  
+Feel free to wander around, it  [~~live in a coal mine~~](./) looks dark.
 
 
 ---
@@ -59,8 +64,8 @@ Enter "http://14BME0133.github.io/" followed by the  subject code "ZYX987" in 
  ---
  
  [ ++ ](https://14bme0133.github.io/MEE305/) 
- [OPEN] MEE 305 : Design Project 
- ##### This ones really cool! #AGL 
+ [OPEN] MEE 305 : Design Project  
+ #### This ones from planetX : #AGL 
  
  ---
  
