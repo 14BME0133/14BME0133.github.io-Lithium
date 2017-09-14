@@ -1,17 +1,5 @@
 ----
 <meta name="google-site-verification" content="ZaLznHFVqpm6T5OnD9mjmB9YJ_wzPN96FHxC8nxeMOU" />
- <script>
-  (function() {
-    var cx = '011380102679472670052:nn3mtsoqyr0';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
 ----
 
 # < 1 4 B M E 0 1 3 3 / > 
@@ -51,15 +39,32 @@ Feel free to wander around, it  [~~live in a coal mine~~](./) looks dark.
    *  @14BME0133
    *  @itsN1X
 
- NOTICE: IRC server has been rolled back for CircleCI integration. It should be back online by the end of septemb, most probably !
+ NOTICE: IRC server has been rolled back for CircleCI integration. It should be back online by the end of septemb, most probably !  
+ 
+ ---
  
  
- ## Some Quick links for reference:
+ <script>
+  (function() {
+    var cx = '011380102679472670052:nn3mtsoqyr0';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+---
+
+## Some Quick links for reference:
  
  RECENTLY UPLOADED **MATERIAL MICROSTRUCTURE VIEWS** under a #CarlZeiss200xD 
  [check them out](https://14bme0133.github.io/MEE1005/)
  
- #### Check back later this week for fresh news and hot updates.
+#### Check back later this week for fresh news and hot updates.
  
  
  ---
@@ -76,7 +81,7 @@ Feel free to wander around, it  [~~live in a coal mine~~](./) looks dark.
  
  [ ++ ](https://14bme0133.github.io/MEE305/) 
  [OPEN] MEE 305 : Design Project  
- #### This ones from planetX : #AGL 
+#### This ones from planetX : #AGL 
  
  ---
  
@@ -122,10 +127,10 @@ Grateful to all \*UNIX # and my Alma Maters.
 ### Vital stats:
 
 
-- Version served: v4.06.03
+- Version served: v4.2.06.
 - ET: #D1121
 - Created: 01-08-2014t1100+0530
-- Updated: 06-09-2017t1953+0530
+- Updated: 16-09-2017t1953+0530
 
                    
                    
