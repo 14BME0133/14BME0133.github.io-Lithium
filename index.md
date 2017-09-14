@@ -1,5 +1,17 @@
 ----
 <meta name="google-site-verification" content="ZaLznHFVqpm6T5OnD9mjmB9YJ_wzPN96FHxC8nxeMOU" />
+ <script>
+  (function() {
+    var cx = '011380102679472670052:nn3mtsoqyr0';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
 ----
 
 # < 1 4 B M E 0 1 3 3 / > 
@@ -49,18 +61,6 @@ Feel free to wander around, it  [~~live in a coal mine~~](./) looks dark.
  
  #### Check back later this week for fresh news and hot updates.
  
- <script>
-  (function() {
-    var cx = '011380102679472670052:nn3mtsoqyr0';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
  
  ---
  
