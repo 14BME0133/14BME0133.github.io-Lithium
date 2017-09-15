@@ -19,5 +19,5 @@ sendmailsto: 14BME0133[at]gmail[dot]com
 ##### Beware; \*X is "the" rabbit_hole()
 
 <html><a href="https://twitter.com/14BME0133" class="twitter-follow-button" data-show-count="false"> Follow @14BME0133 </a>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script sync src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </html>
