@@ -1,7 +1,3 @@
-<html><a href="https://twitter.com/14BME0133" class="twitter-follow-button" data-show-count="false"> Follow @14BME0133 </a>
-<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</html>
-
 # 14BME0133
 © Nikhil  Pandita
    
