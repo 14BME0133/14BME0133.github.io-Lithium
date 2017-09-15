@@ -4,10 +4,12 @@
    
 ---
    
-<http://14BME0133.guthub.io>
+[http://14BME0133.guthub.io](./)
 
+### OR
 
-mailto: <14BME0133@gmail.com>
+sendmailsto: 14BME0133[at]gmail[dot]com
+
 
 ---
 
@@ -15,3 +17,6 @@ mailto: <14BME0133@gmail.com>
 ![x133feels](/images/screeny_x0x.png)
 
 ##### Beware; \*X is "the" rabbit_hole()
+
+<html><a href="https://twitter.com/14BME0133" class="twitter-follow-button" data-show-count="false">Follow @14BME0133</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</html>
