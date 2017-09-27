@@ -23,7 +23,7 @@ I am better known as 14BME0133 in this realm. This  website is (but not limite
 
 ### Notes for NEWCOMERS:  
 Enter "http://14BME0133.github.io/" followed by the  subject code "ZYX987" in your shell to shoot up the docs for the required course. Also, there are a lot of surprising and enticing reads flourishing in this webs partitions. However, its limited -- to shunt unduly access, Things are fuuzy here.. No zer0s, neither a 0NE, but magically, precisely amid!  
-Feel free to wander around, it  [~~live in a coal mine~~](./) looks dark.
+Feel free to wander around, but beware: it may [~~live in a coal mine~~](./) look dark!
 
 ---
 
