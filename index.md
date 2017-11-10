@@ -47,27 +47,41 @@ Feel free to wander around, but beware: it may [~~live in a coal mine~~](./) loo
 
 ## Some Quick links for reference:
  
- RECENTLY UPLOADED **MATERIAL MICROSTRUCTURE VIEWS** under a #CarlZeiss200xD 
+ RECENTLY UPLOADED **MATERIAL MICROSTRUCTURE VIEWS**
+
  [check them out](https://14bme0133.github.io/MEE1005/)
  
 #### Check back later this week for fresh news and hot updates.
  
+ ---
+ ---
  
+ ## Recently Updated Courses :View-wiki :
+ ---
+ 
+ [ ++ ](https://14bme0133.github.io/MEE1004L/) 
+ [CORE] MEE1004 : Theoretical Fluid Mechanics 
+ Recent file uploads.
  ---
  
  [ ++ ](https://14bme0133.github.io/MEE207/) 
  [CORE] MEE207 : Computer Aided Machine Drawing (CAMD) 
+ SeeNC Mill+ : How to chisel out in virtual universe!
+ ---
+ 
+ [ ++ ](https://14bme0133.github.io/MEE207/) 
+ [CORE] MEE207 : CAD-CAM/CAD (ANSYS: Structural, Thermal and Fluidics)
  
  ---
  
  [ ++ ](https://14bme0133.github.io/MEE307/) 
- [CORE] MEE307 : CAD/CAM (Design && Manuafacturing)
+ [CORE] MEE307 : CAD-CAM/CAM (Design && Manuafacturing)
  
  ---
  
  [ ++open ](https://14bme0133.github.io/MEE305/) 
  [OPEN] MEE 305 : Design Project  
-#### This ones from planetX : #AGL 
+This ones from planetX : #AGL #Linux #Tokyo
  
  ---
  
