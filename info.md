@@ -1,5 +1,5 @@
 ----
-<meta name="google-site-verification" content="ZaLznHFVqpm6T5OnD9mjmB9YJ_wzPN96FHxC8nxeMOU" />
+<meta></meta>
 ----
 
 # < 1 4 B M E 0 1 3 3 / > 
@@ -32,12 +32,10 @@ Feel free to wander around, but beware: it may [~~live in a coal mine~~](./) loo
 * E-mails:
 
    *  nikhil.pandita2014@vit.ac.in
-   *  k9nikhil@gmail.com
    
 * Twitter:
 
    *  @14BME0133
-   *  @itsN1X
 
  NOTICE: IRC server has been rolled back for CircleCI integration. It should be back online by the end of septemb, most probably !  
  
@@ -47,9 +45,9 @@ Feel free to wander around, but beware: it may [~~live in a coal mine~~](./) loo
 
 ## Some Quick links for reference:
  
- RECENTLY UPLOADED **MATERIAL MICROSTRUCTURE VIEWS**
+ RECENTLY UPLOADED **MATERIAL MICROSTRUCTURE eVIEWS**
 
- [check them out](https://14bme0133.github.io/MEE1005/)
+ [+++](https://14bme0133.github.io/MEE1005/)
  
 #### Check back later this week for fresh news and hot updates.
  
