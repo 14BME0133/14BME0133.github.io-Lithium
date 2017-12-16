@@ -18,7 +18,7 @@
  
  
 ## 14BME0133:
-I am better known as 14BME0133 in this realm. This  website is (but not limited to) a comprehensive compilation of the work produced and directed towards the completion of myriad, higher degree science, engineering and technology full-time undergraduate degree courses. I  aspire perfection in the domain of engineering, ushered by my blindfolded scientific temparament, & am keenly devoted to it's advancement. You can also follow a gist of my hobbies here at the Inter-Networks by logging onto http://n1x.website .  
+I am better known as 14BME0133 in this realm. This  website is (but not limited to) a comprehensive compilation of the work produced and directed towards the completion of myriad, higher degree science, engineering and technology full-time undergraduate degree courses. I  aspire perfection in the domain of engineering, ushered by my blindfolded scientific temparament, & am keenly devoted to it's advancement. You can also follow a gist of my hobbies here at the Inter-Networks by logging onto {N1X site}(https://n1x.site) .  
 
 
 ### Notes for NEWCOMERS:  
@@ -59,29 +59,11 @@ Feel free to wander around, but beware: it may [~~live in a coal mine~~](./) loo
  ## Recently Updated Courses :View-wiki :
  ---
  
- [ ++ ](https://14bme0133.github.io/MEE1004L/) 
- [CORE] MEE1004 : Theoretical Fluid Mechanics 
- Recent file uploads.
- ---
- 
- [ ++ ](https://14bme0133.github.io/MEE207/) 
- [CORE] MEE207 : Computer Aided Machine Drawing (CAMD) 
- SeeNC Mill+ : How to chisel out in virtual universe!
- ---
- 
- [ ++ ](https://14bme0133.github.io/MEE207/) 
- [CORE] MEE207 : CAD-CAM/CAD (ANSYS: Structural, Thermal and Fluidics)
- 
- ---
- 
- [ ++ ](https://14bme0133.github.io/MEE307/) 
- [CORE] MEE307 : CAD-CAM/CAM (Design && Manuafacturing)
- 
  ---
  
  [ ++open ](https://14bme0133.github.io/MEE305/) 
  [OPEN] MEE 305 : Design Project  
-This ones from planetX : #AGL #Linux #Tokyo
+This ones from : #AGL #Linux #Tokyo16
  
  ---
  
@@ -127,10 +109,10 @@ Grateful to all \*UNIX # and my Alma Maters.
 ### Vital stats:
 
 
-- Version served: v4.2.06.
-- ET: #D7676
+- Version served: v4.3.06.
+- ET: #D7706
 - Created: 01-08-2014t1100+0530
-- Updated: 28-09-2017t0053+0530
+- Updated: 28-11-2017t0053+0530
 
                    
                    
