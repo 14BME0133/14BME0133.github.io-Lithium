@@ -18,7 +18,7 @@
  
  
 ## 14BME0133:
-I am better known as 14BME0133 in this realm. This  website is (but not limited to) a comprehensive compilation of the work produced and directed towards the completion of myriad, higher degree science, engineering and technology full-time undergraduate degree courses. I  aspire perfection in the domain of engineering, ushered by my blindfolded scientific temparament, & am keenly devoted to it's advancement. You can also follow a gist of my hobbies here at the Inter-Networks by logging onto {N1X site}(https://n1x.site) .  
+I am better known as 14BME0133 in this realm. This  website is (but not limited to) a comprehensive compilation of the work produced and directed towards the completion of myriad, higher degree science, engineering and technology full-time undergraduate degree courses. I  aspire perfection in the domain of engineering, ushered by my blindfolded scientific temparament, & am keenly devoted to it's advancement. You can also follow a gist of my hobbies here at the Inter-Networks by logging onto [N1X site](https://n1x.site) .  
 
 
 ### Notes for NEWCOMERS:  
