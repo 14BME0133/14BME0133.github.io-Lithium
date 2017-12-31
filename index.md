@@ -13,182 +13,7 @@ First Class | Code | Capstone | Meta Disc } Notes
 2014.08.01 | MEE104 | WS/II | [./MEE104](14bme0133.github.io/MEE104)
 2014.08.01 | MEE103 | WS/I | [./MEE103](14bme0133.github.io/MEE103)
 2014.08.01 | MEE103 | WS/I | [./MEE103](14bme0133.github.io/MEE103)
-
-Admin on this repository
-14BME0133 / MAT201
-Admin on this repository
-14BME0133 / MEE214
-Admin on this repository
-14BME0133 / MEE203
-Admin on this repository
-14BME0133 / CSE219
-Admin on this repository
-14BME0133 / MAT115L
-Admin on this repository
-14BME0133 / MEE243
-Admin on this repository
-14BME0133 / ESP101
-Admin on this repository
-14BME0133 / MEE103
-Admin on this repository
-14BME0133 / MEE108
-Admin on this repository
-14BME0133 / CHY102
-Admin on this repository
-14BME0133 / EEE101
-Admin on this repository
-14BME0133 / MEE204
-Admin on this repository
-14BME0133 / CSE109
-Admin on this repository
-14BME0133 / CHY101
-Admin on this repository
-14BME0133 / ENG101
-Admin on this repository
-14BME0133 / ENG101L
-Admin on this repository
-14BME0133 / CHY101L
-Admin on this repository
-14BME0133 / ITE101L
-Admin on this repository
-14BME0133 / ITE101
-Admin on this repository
-14BME0133 / MAT114
-Admin on this repository
-14BME0133 / MEE102
-Admin on this repository
-14BME0133 / MEE107
-Admin on this repository
-14BME0133 / PHY101
-Admin on this repository
-14BME0133 / PHY101L
-Admin on this repository
-14BME0133 / CHY104
-Admin on this repository
-14BME0133 / CSE109L
-Admin on this repository
-14BME0133 / EEE101L
-Admin on this repository
-14BME0133 / ENG102
-Admin on this repository
-14BME0133 / ENG102L
- 14BME0133 / MAT115
-Admin on this repository
-14BME0133 / MAT104
-Admin on this repository
-14BME0133 / MEE205
-Admin on this repository
-14BME0133 / MEE205L
-Admin on this repository
-14BME0133 / MEE206L
-Admin on this repository
-14BME0133 / MEE206
-Admin on this repository
-14BME0133 / MEE215
-Admin on this repository
-14BME0133 / MEE216L
-Admin on this repository
-14BME0133 / MEE216
-Admin on this repository
-14BME0133 / STS201
-Admin on this repository
-14BME0133 / STS202
-Admin on this repository
-14BME0133 / STS301
-Admin on this repository
-14BME0133 / MEE214L
-Admin on this repository
-14BME0133 / MEE217L
-Admin on this repository
-14BME0133 / MEE217
-Admin on this repository
-14BME0133 / MEE301
-Admin on this repository
-14BME0133 / MEE301L
-Admin on this repository
-14BME0133 / MEE303L
-Admin on this repository
-14BME0133 / MEE303
-Admin on this repository
-14BME0133 / MEE308
-Admin on this repository
-14BME0133 / EXC120
-Admin on this repository
-14BME0133 / EXC129
-Admin on this repository
-14BME0133 / EXC138
-Admin on this repository
-14BME0133 / HUM101
-Admin on this repository
-14BME0133 / CHY102L
-Admin on this repository
-14BME0133 / MEE243L
-Admin on this repository
-14BME0133 / CSE219L
-Admin on this repository
-14BME0133 / MEE432
-Admin on this repository
-14BME0133 / MEE437
-Admin on this repository
-14BME0133 / MEE304L
-Admin on this repository 
-14BME0133 / MEE241
-Admin on this repository
-14BME0133 / STS302
-Admin on this repository
-14BME0133 / STS101
-Admin on this repository
-14BME0133 / STS102
-Admin on this repository
-14BME0133 / MEE304
-Admin on this repository
-14BME0133 / MEE202
-Admin on this repository
-14BME0133 / MAT114L
-Admin on this repository
-14BME0133 / EXC458
-Admin on this repository
-14BME0133 / EXC666
-Admin on this repository
-14BME0133 / Wiki
-Admin on this repository
-14BME0133 / MEE498
-Admin on this repository
-14BME0133 / HUM121
-Admin on this repository
-14BME0133 / PHY102
-Admin on this repository
-14BME0133 / PHY102L
-Admin on this repository
-14BME0133 / MAT205
-Admin on this repository
-14BME0133 / MEE305
-Admin on this repository
-14BME0133 / MEE401
-Admin on this repository
-14BME0133 / sandbox
-Admin on this repository
-14BME0133 / MEE218
-Admin on this repository
-14BME0133 / MEE207
-Admin on this repository
-14BME0133 / MEE302
-Admin on this repository
-14BME0133 / MEE1004
-Admin on this repository
-14BME0133 / MEE1005
-Admin on this repository
-14BME0133 / MEE306
-Admin on this repository
-14BME0133 / MEE244
-Admin on this repository
-14BME0133 / x133.ml
-Admin on this repository
-14BME0133 / MEE307
-Admin on this repository
-14BME0133 / 14BME-index
-Admin on this repository
-14BME0133 / CSE418
+ 
 
 14BME0133 / d3
 Admin on this repository
@@ -256,3 +81,200 @@ STS302	|	Soft Skills IV
 	|	
 CSE219	|	OOP&P
 CSE109	|	Digital Logic
+
+
+
+---
+---
+---
+---
+
+14BME0133	/	MAT201
+		
+14BME0133	/	MEE214
+		
+14BME0133	/	MEE203
+		
+14BME0133	/	CSE219
+		
+14BME0133	/	MAT115L
+		
+14BME0133	/	MEE243
+		
+14BME0133	/	ESP101
+		
+14BME0133	/	MEE103
+		
+14BME0133	/	MEE108
+		
+14BME0133	/	CHY102
+		
+14BME0133	/	EEE101
+		
+14BME0133	/	MEE204
+		
+14BME0133	/	CSE109
+		
+14BME0133	/	CHY101
+		
+14BME0133	/	ENG101
+		
+14BME0133	/	ENG101L
+		
+14BME0133	/	CHY101L
+		
+14BME0133	/	ITE101L
+		
+14BME0133	/	ITE101
+		
+14BME0133	/	MAT114
+		
+14BME0133	/	MEE102
+		
+14BME0133	/	MEE107
+		
+14BME0133	/	PHY101
+		
+14BME0133	/	PHY101L
+		
+14BME0133	/	CHY104
+		
+14BME0133	/	CSE109L
+		
+14BME0133	/	EEE101L
+		
+14BME0133	/	ENG102
+		
+14BME0133	/	ENG102L
+		
+14BME0133	/	MAT115
+		
+14BME0133	/	MAT104
+		
+14BME0133	/	MEE205
+		
+14BME0133	/	MEE205L
+		
+14BME0133	/	MEE206L
+		
+14BME0133	/	MEE206
+		
+14BME0133	/	MEE215
+		
+14BME0133	/	MEE216L
+		
+14BME0133	/	MEE216
+		
+14BME0133	/	STS201
+		
+14BME0133	/	STS202
+		
+14BME0133	/	STS301
+		
+14BME0133	/	MEE214L
+		
+14BME0133	/	MEE217L
+		
+14BME0133	/	MEE217
+		
+14BME0133	/	MEE301
+		
+14BME0133	/	MEE301L
+		
+14BME0133	/	MEE303L
+		
+14BME0133	/	MEE303
+		
+14BME0133	/	MEE308
+		
+14BME0133	/	EXC120
+		
+14BME0133	/	EXC129
+		
+14BME0133	/	EXC138
+		
+14BME0133	/	HUM101
+		
+14BME0133	/	CHY102L
+		
+14BME0133	/	MEE243L
+		
+14BME0133	/	CSE219L
+		
+14BME0133	/	MEE432
+		
+14BME0133	/	MEE437
+		
+14BME0133	/	MEE304L
+		
+14BME0133	/	MEE241
+		
+14BME0133	/	STS302
+		
+14BME0133	/	STS101
+		
+14BME0133	/	STS102
+		
+14BME0133	/	MEE304
+		
+14BME0133	/	MEE202
+		
+14BME0133	/	MAT114L
+		
+14BME0133	/	EXC458
+		
+14BME0133	/	EXC666
+		
+14BME0133	/	Wiki
+		
+14BME0133	/	MEE498
+		
+14BME0133	/	HUM121
+		
+14BME0133	/	PHY102
+		
+14BME0133	/	PHY102L
+		
+14BME0133	/	MAT205
+		
+14BME0133	/	MEE305
+		
+14BME0133	/	MEE401
+		
+14BME0133	/	sandbox
+		
+14BME0133	/	MEE218
+		
+14BME0133	/	MEE207
+		
+14BME0133	/	MEE302
+		
+14BME0133	/	MEE1004
+		
+14BME0133	/	MEE1005
+		
+14BME0133	/	MEE306
+		
+14BME0133	/	MEE244
+		
+14BME0133	/	x133.ml
+		
+14BME0133	/	MEE307
+		
+14BME0133	/	14BME-index
+		
+14BME0133	/	CSE418
+		
+14BME0133	/	d3
+		
+14BME0133	/	VIT-list-API-frontend
+		
+14BME0133	/	MEE1004L
+
+
+
+---
+
+All directions reserved.
+# (C) 2014-2018 NIKHIL PANDITA
+<14BME0133.github.io/>
