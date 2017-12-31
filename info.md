@@ -1,5 +1,5 @@
 ---
-title: vTop - 14BME0133 // FFCS (beta, not zeta)
+title: vTop - 14BME0133 // FFCS (beta, not yet alpha)
 description: VIT University, Vellore - 14BME0133 // FFCS
 ---
 
