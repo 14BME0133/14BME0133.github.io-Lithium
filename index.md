@@ -13,11 +13,12 @@ First Class | Code | Capstone | Meta Disc } Notes
 2014.08.01 | MEE104 | WS/II | [./MEE104](14bme0133.github.io/MEE104)
 2014.08.01 | MEE103 | ED/I | [./MEE106](14bme0133.github.io/MEE103)
 2014.08.01 | MEE103 | ED/II | [./MEE107](14bme0133.github.io/MEE103)
-++open [OPEN] | MEE305 | : Design Project |#AGL #Linux #Tokyo16
-++open [OPEN] | MEE218 | : Hardware Project | #pKH
-++open [OPEN] | MEE399 | : Industrial Internship | Amaron (Amaraja)
-++open [OPEN] | MEE499 | : Final Year Project | bzh
+[++OPEN](https://github.com/MEE305) | MEE305 | : Design Project |#AGL #Linux #Tokyo16
+[++OPEN](https://github.com/MEE218) | MEE218 | : Hardware Project | #pKH
+[++OPEN](https://github.com/MEE399) | MEE399 | : Industrial Internship | Amaron (Amaraja)
+[++OPEN](https://github.com/MEE499) | MEE499 | : Final Year Project | bzh
  
+
 
 14BME0133 / d3
 Admin on this repository
@@ -25,7 +26,9 @@ Admin on this repository
 Admin on this repository
 14BME0133 / MEE1004L
 
-
+---
+CHOP.chop();
+---
 
 [++explore++](https://14bme0133.github.io/CHY102)	|	Materials and Instrumental Techniques
 [++explore++](https://14bme0133.github.io/EEE101)	|	Basic Electrical and Electronics Engineering
