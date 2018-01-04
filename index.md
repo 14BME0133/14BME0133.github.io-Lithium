@@ -11,8 +11,12 @@ First Class | Code | Capstone | Meta Disc } Notes
 ---|---|---|---|---
 2014.08.01 | MEE103 | Workshop Practice I | [./MEE103](14bme0133.github.io/MEE103)
 2014.08.01 | MEE104 | WS/II | [./MEE104](14bme0133.github.io/MEE104)
-2014.08.01 | MEE103 | WS/I | [./MEE103](14bme0133.github.io/MEE103)
-2014.08.01 | MEE103 | WS/I | [./MEE103](14bme0133.github.io/MEE103)
+2014.08.01 | MEE103 | ED/I | [./MEE106](14bme0133.github.io/MEE103)
+2014.08.01 | MEE103 | ED/II | [./MEE107](14bme0133.github.io/MEE103)
+++open [OPEN] | MEE305 | : Design Project |#AGL #Linux #Tokyo16
+++open [OPEN] | MEE218 | : Hardware Project | #pKH
+++open [OPEN] | MEE399 | : Industrial Internship | Amaron (Amaraja)
+++open [OPEN] | MEE499 | : Final Year Project | bzh
  
 
 14BME0133 / d3
@@ -23,64 +27,64 @@ Admin on this repository
 
 
 
-CHY102	|	Materials and Instrumental Techniques
-EEE101	|	Basic Electrical and Electronics Engineering
-HUM101	|	Psychology and Sociology
-MAT104	|	Probability and Statistics
-MAT115	|	Differential and Difference Equations
-MAT201	|	Complex Variables and Partial Differential Equations
-MAT205	|	Applied Numerical Methods
-MEE102	|	Workshop Practice
-MEE104	|	Workshop Practice - II
-MEE107	|	Engineering Drawing - I
-MEE108	|	Engineering Drawing - II
-MEE202	|	Engineering Mechanics
-MEE203	|	Materials Engineering and Technology
-MEE204	|	Engineering Thermodynamics
-MEE205	|	Fundamentals of Manufacturing Processes
-MEE206	|	Fluid Mechanics
-MEE207	|	Computer Aided Machine Drawing
-MEE214	|	Strength of Materials
-MEE215	|	Kinematics of Machinery
-MEE216	|	Thermal Engineering Systems
-MEE217	|	Machining Processes and Metrology
-MEE218	|	Hardware Project
-MEE301	|	Dynamics of Machinery
-MEE302	|	Design of Machine Elements
-MEE303	|	Heat and Mass Transfer
-MEE304	|	Turbomachines
-MEE305	|	Design Project
-MEE306	|	Design of Transmission Systems
-MEE307	|	CAD/CAM
-MEE308	|	Industrial Engineering and Management
-MEE399	|	Industrial Internship
-MEE437	|	Operations Research
-MEE499	|	Project Work
-PHY102	|	Materials Science
+[++explore++](https://14bme0133.github.io/CHY102)	|	Materials and Instrumental Techniques
+[++explore++](https://14bme0133.github.io/EEE101)	|	Basic Electrical and Electronics Engineering
+[++explore++](https://14bme0133.github.io/HUM101)	|	Psychology and Sociology
+[++explore++](https://14bme0133.github.io/MAT104)	|	Probability and Statistics
+[++explore++](https://14bme0133.github.io/MAT115)	|	Differential and Difference Equations
+[++explore++](https://14bme0133.github.io/MAT201)	|	Complex Variables and Partial Differential Equations
+[++explore++](https://14bme0133.github.io/MAT205)	|	Applied Numerical Methods
+[++explore++](https://14bme0133.github.io/MEE102)	|	Workshop Practice
+[++explore++](https://14bme0133.github.io/MEE104)	|	Workshop Practice - II
+[++explore++](https://14bme0133.github.io/MEE107)	|	Engineering Drawing - I
+[++explore++](https://14bme0133.github.io/MEE108)	|	Engineering Drawing - II
+[++explore++](https://14bme0133.github.io/MEE202)	|	Engineering Mechanics
+[++explore++](https://14bme0133.github.io/MEE203)	|	Materials Engineering and Technology
+[++explore++](https://14bme0133.github.io/MEE204)	|	Engineering Thermodynamics
+[++explore++](https://14bme0133.github.io/MEE205)	|	Fundamentals of Manufacturing Processes
+[++explore++](https://14bme0133.github.io/MEE206)	|	Fluid Mechanics
+[++explore++](https://14bme0133.github.io/MEE207)	|	Computer Aided Machine Drawing
+[++explore++](https://14bme0133.github.io/MEE214)	|	Strength of Materials
+[++explore++](https://14bme0133.github.io/MEE215)	|	Kinematics of Machinery
+[++explore++](https://14bme0133.github.io/MEE216)	|	Thermal Engineering Systems
+[++explore++](https://14bme0133.github.io/MEE217)	|	Machining Processes and Metrology
+[++explore++](https://14bme0133.github.io/MEE218)	|	Hardware Project
+[++explore++](https://14bme0133.github.io/MEE301)	|	Dynamics of Machinery
+[++explore++](https://14bme0133.github.io/MEE302)	|	Design of Machine Elements
+[++explore++](https://14bme0133.github.io/MEE303)	|	Heat and Mass Transfer
+[++explore++](https://14bme0133.github.io/MEE304)	|	Turbomachines
+[++explore++](https://14bme0133.github.io/MEE305)	|	Design Project
+[++explore++](https://14bme0133.github.io/MEE306)	|	Design of Transmission Systems
+[++explore++](https://14bme0133.github.io/MEE307)	|	CAD/CAM
+[++explore++](https://14bme0133.github.io/MEE308)	|	Industrial Engineering and Management
+[++explore++](https://14bme0133.github.io/MEE399)	|	Industrial Internship
+[++explore++](https://14bme0133.github.io/MEE437)	|	Operations Research
+[++explore++](https://14bme0133.github.io/MEE499)	|	Project Work
+[++explore++](https://14bme0133.github.io/PHY102)	|	Materials Science
+[++explore++](https://14bme0133.github.io/	|	
+[+)+explore++](https://14bme0133.github.io/CHY101)	|	Engineering Chemistry
+[++explore++](https://14bme0133.github.io/CHY104)	|	Environmental Studies
+[++explore++](https://14bme0133.github.io/ENG101)	|	English for Engineers - I
+[++explore++](https://14bme0133.github.io/ENG102)	|	English for Engineers - II
+[++explore++](https://14bme0133.github.io/HUM121)	|	Ethics and Values
+[++explore++](https://14bme0133.github.io/ITE101)	|	Problem Solving Using C
+[++explore++](https://14bme0133.github.io/MAT114)	|	Multivariable Calculus and Differential Equations
+[++explore++](https://14bme0133.github.io/MEE498)	|	Comprehensive Examination
+[++explore++](https://14bme0133.github.io/PHY101)	|	Modern Physics
 	|	
-CHY101	|	Engineering Chemistry
-CHY104	|	Environmental Studies
-ENG101	|	English for Engineers - I
-ENG102	|	English for Engineers - II
-HUM121	|	Ethics and Values
-ITE101	|	Problem Solving Using C
-MAT114	|	Multivariable Calculus and Differential Equations
-MEE498	|	Comprehensive Examination
-PHY101	|	Modern Physics
+[++explore++](https://14bme0133.github.io/MEE241)	|	Automotive Electronic and Instrumentation Systems
+[++explore++](https://14bme0133.github.io/MEE243)	|	Fundamentals of Mechatronics Systems
+[++explore++](https://14bme0133.github.io/MEE244)	|	Industrial Automation Controller
+[++explore++](https://14bme0133.github.io/MEE401)	|	Total Quality Management and Reliability
+[++explore++](https://14bme0133.github.io/MEE432)	|	Tool Design
 	|	
-MEE241	|	Automotive Electronic and Instrumentation Systems
-MEE243	|	Fundamentals of Mechatronics Systems
-MEE244	|	Industrial Automation Controller
-MEE401	|	Total Quality Management and Reliability
-MEE432	|	Tool Design
+[++explore++](https://14bme0133.github.io/STS201)	|	Soft Skills I
+[++explore++](https://14bme0133.github.io/STS202)	|	Soft Skills II
+[++explore++](https://14bme0133.github.io/STS301)	|	Soft Skills III
+[++explore++](https://14bme0133.github.io/STS302)	|	Soft Skills IV
 	|	
-STS201	|	Soft Skills I
-STS202	|	Soft Skills II
-STS301	|	Soft Skills III
-STS302	|	Soft Skills IV
-	|	
-CSE219	|	OOP&P
-CSE109	|	Digital Logic
+[++explore++](https://14bme0133.github.io/CSE219)	|	OOP&P
+[++explore++](https://14bme0133.github.io/CSE109)	|	Digital Logic
 
 
 
@@ -88,6 +92,76 @@ CSE109	|	Digital Logic
 ---
 ---
 ---
+
+
+# Working Directories: 
+
+Sorry if this doesnt look neat:: ngineers are always a W-I~P~^\_.
+
+
+---
+
+Working directories with a validated AA-record.
+```
+CHY102
+EEE101
+HUM101
+MAT104
+MAT115
+MAT201
+MAT205
+MEE102
+MEE104
+MEE107
+MEE108
+MEE202
+MEE203
+MEE204
+MEE205
+MEE206
+MEE207
+MEE214
+MEE215
+MEE216
+MEE217
+MEE218
+MEE301
+MEE302
+MEE303
+MEE304
+MEE305
+MEE306
+MEE307
+MEE308
+MEE399
+MEE437
+MEE499
+PHY102
+	|	
+[+
+CHY101
+CHY104
+ENG101
+ENG102
+HUM121
+ITE101
+MAT114
+MEE498
+PHY101
+MEE241
+MEE243
+MEE244
+MEE401
+MEE432
+STS201
+STS202
+STS301
+STS302
+CSE219
+CSE109
+
+---
+
 
 14BME0133	/	MAT201
 		
@@ -278,3 +352,6 @@ CSE109	|	Digital Logic
 All directions reserved.
 # (C) 2014-2018 NIKHIL PANDITA
 <14BME0133.github.io/>
+
+Send $ETH love to support (Shapeshift.io if you wilst other VC's X)
+`0xd6df5C1C8a2a5881E14855463cf576193c8721db`
