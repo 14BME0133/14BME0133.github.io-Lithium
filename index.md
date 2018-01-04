@@ -380,5 +380,8 @@ All directions reserved.
 # (C) 2014-2018 NIKHIL PANDITA
 <14BME0133.github.io/>
 
+---
+
 Send $ETH love to support (Shapeshift.io if you wilst other VC's X)
+
 `0xd6df5C1C8a2a5881E14855463cf576193c8721db`
