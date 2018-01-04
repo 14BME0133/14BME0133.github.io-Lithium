@@ -344,10 +344,34 @@ CSE109
 14BME0133	/	VIT-list-API-frontend
 		
 14BME0133	/	MEE1004L
+```
 
+---
+---
+---
+---
+
+
+«SCRIPT>
+
+(•_•)
+<) )╯LOOK
+/ \
+
+(•_•)
+( (> fOR
+/ \
+
+(•_•)
+<) )> N1X
+/ \
 
 
 ---
+---
+---
+---
+
 
 All directions reserved.
 # (C) 2014-2018 NIKHIL PANDITA
