@@ -1,4 +1,6 @@
-(C) 2014 <14BME0133/> Learn more, try to compile the [info here](/info.md).
+(C) 2014 <14BME0133/> 
+
+## Learn more, try to compile the [info here](/info.md).
 
 ---
 
@@ -34,8 +36,9 @@ CHOP.chop();
 
 p.s. I've this despisic arrogance towards Google, but since the chromium was a community effort, I'd still brag about its COAL fields.
 >> Okay you want this link(s:)
- - [ ] The [Siteemap](sitemap.md) 
+ - [ ] The [Sitemap](sitemap.md) 
  - [ ] The [Info-cum_Impressum](info.md)
+ - [ ] The Security[PAGE](security.md) , yea. fml, I be 'A TROY HUNT' fanatic.. <3 OZZY
  
 ---
 ---
@@ -86,8 +89,6 @@ MEE399
 MEE437
 MEE499
 PHY102
-	|	
-[+
 CHY101
 CHY104
 ENG101
@@ -143,11 +144,12 @@ All directions reserved.
 
 ---
 
-Send $ETH love to support (Shapeshift.io if you wilst other VC's X)
+Send $ETH love to support. 
+(Do use  Shapeshift.io if you wilst other VC's X) )
 
-`0xd6df5C1C8a2a5881E14855463cf576193c8721db`
+`0xd6df5C1C8a2a5881E14855463cf576193c8721db` for $ETH or #ERC20 tokes.
 
 ___
 
-#### Last hitcommion #ETTX77781 : #Gr
+#### Last hitcommion #ETTX7781 : #Gr
 ^^emittime checksum, base 64-gunz, 921.
