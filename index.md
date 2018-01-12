@@ -1,6 +1,9 @@
 (C) 2014 <14BME0133/> 
 
 ## Learn more, try to compile the [info here](/info.md).
+## Fry even more, try to read the [wiki here](https://14bme0133.github.io/Wiki).
+## At a glance further more, try [look here](https://github.com/14bme0133/Wiki/index.md).
+
 
 ---
 
@@ -15,10 +18,10 @@ First Class | Code | Capstone | Meta Disc } Notes
 2014.08.01 | MEE104 | WS/II | [./MEE104](14bme0133.github.io/MEE104)
 2014.08.01 | MEE103 | ED/I | [./MEE106](14bme0133.github.io/MEE103)
 2014.08.01 | MEE103 | ED/II | [./MEE107](14bme0133.github.io/MEE103)
-[++OPEN](https://github.com/MEE305) | MEE305 | : Design Project |#AGL #Linux #Tokyo16
-[++OPEN](https://github.com/MEE218) | MEE218 | : Hardware Project | #pKH Bounciy Springs ( w/ 14BME0102 Arora. S, citation needed. ]
-[++OPEN](https://github.com/MEE399) | MEE399 | : Industrial Internship | Amaron (Amaraja) INC. (INDIA) Ltd. [ Proposed ]
-[++OPEN](https://github.com/MEE499) | MEE499 | : Final Year Project | bzh
+[++OPEN](https://14bme0133.github.io/MEE305) | MEE305 | : Design Project |#AGL #Linux #Tokyo16
+[++OPEN](https://14bme0133.github.io/MEE218) | MEE218 | : Hardware Project | #pKH Bounciy Springs ( w/ 14BME0102 Arora. S, citation needed. ]
+[++OPEN](https://14bme0133.github.io/MEE399) | MEE399 | : Industrial Internship | Amaron (Amaraja) INC. (INDIA) Ltd. [ Proposed ]
+[++OPEN](https://14bme0133.github.io/MEE499) | MEE499 | : Final Year Project | bzh
  
 
 
