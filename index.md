@@ -23,7 +23,7 @@ CHOP.chop();
 # Working Directories: 
 
 Sorry if this doesnt look neat:: ngineers are always a W-I~P~^\_.
- And yes this whole endeavour is black coloureds but is anti-blackbox: Thus essentially, outliers the mystic code deployed publically on a OSS platform spelled GITHU 'bae. See or contibute or raise an issue [here](https://github.com/14BME0133/).
+ And yes this whole endeavour is black coloureds but is anti-blackbox: Thus essentially, outliers the mystic code deployed publically on a OSS platform . Raise an issue [here](https://github.com/14BME0133/IT/).
 
 ---
 ---
