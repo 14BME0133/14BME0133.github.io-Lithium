@@ -3,7 +3,7 @@
 ## Learn more, try to compile the [info here](/info.md).
 ## Fry even more, try to read the [wiki here](https://14bme0133.github.io/Wiki).
 ## At a glance further more, try [look here](https://github.com/14bme0133/Wiki/).
-## Well, it had these munchy [thinngumies].(/altindex.md)
+## Well, it had these munchy [thinngumies](/altindex.md).
 
 ---
 
