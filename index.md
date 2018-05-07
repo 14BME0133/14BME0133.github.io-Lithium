@@ -5,13 +5,14 @@ Fry even more, try to read the [wiki here](https://14bme0133.github.io/Wiki).
 At a glance further more, try [look here](https://github.com/14bme0133/Wiki/).
 Well, it had these munchy [thinngumies](/altindex.md).
 Though, now solely somewhat just [this](/oldindex.md).
+
 ---
 
 ---
  - [ ] The [Sitemap](sitemap.md) 
  - [ ] The [Impressum](info.md)
  - [ ] The [SecurityPAGE](security.md)
- - [ ] The [ALLSpager]()https://14bme0133.github.io/ALLS)
+ - [ ] The [ALLSpager](https://14bme0133.github.io/ALLS)
 
 ---
 ---
@@ -30,5 +31,5 @@ Send $ETH love to support.
 
 ___
 
-#### Last hitcommion #ETTX7897 : #Gr
+#### Last hitcommion #ETTX7897 : #Cp
 ^^emittime checksum, base 64-gunz, 921.
