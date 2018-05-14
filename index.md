@@ -1,4 +1,4 @@
-(C) 2014 <14BME0133/> 
+(C) 2014 [<14BME0133/>](https://14BME0133.github.io)
 
 Learn more, try to compile the [info here](/info.md).
 Fry even more, try to read the [wiki here](https://14bme0133.github.io/Wiki).
@@ -9,9 +9,9 @@ Though, now solely somewhat just [this](/oldindex.md).
 ---
 
 ---
- - [ ] The [Sitemap](sitemap.md) 
- - [ ] The [Impressum](info.md)
- - [ ] The [SecurityPAGE](security.md)
+ - [] The [Sitemap](sitemap.md) 
+ - [x] The [Impressum](info.md)
+ - [x] The [SecurityPAGE](security.md)
  - [ ] The [ALLSpager](https://14bme0133.github.io/ALLS)
 
 ---
@@ -21,7 +21,7 @@ Though, now solely somewhat just [this](/oldindex.md).
 
 
 All directions reserved.
-# (C) 2014-2018 NIKHIL PANDITA
+## (C) 2014-2018 NIKHIL '[itsN1X](https://n1x.site/)' PANDITA
 <14BME0133.github.io/>
 
 ---
