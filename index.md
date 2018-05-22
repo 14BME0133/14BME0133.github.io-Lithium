@@ -9,7 +9,7 @@ Though, now solely somewhat just [this](/oldindex.md).
 ---
 
 ---
- - [] The [Sitemap](sitemap.md) 
+ - [X] The [Sitemap](sitemap.md) 
  - [x] The [Impressum](info.md)
  - [x] The [SecurityPAGE](security.md)
  - [ ] The [ALLSpager](https://14bme0133.github.io/ALLS)
@@ -31,5 +31,5 @@ Send $ETH love to support.
 
 ___
 
-#### Last hitcommion #ETTX7897 : #Cp
+#### Last hitcommion #ETTX7913 : #Cp
 ^^emittime checksum, base 64-gunz, 921.
