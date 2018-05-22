@@ -16,7 +16,6 @@ See Also: [The CREATOR](https://N1X.site)
 
 
 
-[++explore++](https://14bme0133.github.io/CHY102)	|	Materials and Instrumental Techniques
 [++explore++](https://14bme0133.github.io/EEE101)	|	Basic Electrical and Electronics Engineering
 [++explore++](https://14bme0133.github.io/HUM101)	|	Psychology and Sociology
 [++explore++](https://14bme0133.github.io/MAT104)	|	Probability and Statistics
@@ -50,8 +49,8 @@ See Also: [The CREATOR](https://N1X.site)
 [++explore++](https://14bme0133.github.io/MEE437)	|	Operations Research
 [++explore++](https://14bme0133.github.io/MEE499)	|	Project Work
 [++explore++](https://14bme0133.github.io/PHY102)	|	Materials Science
-[++explore++](https://14bme0133.github.io/	|	
-[+)+explore++](https://14bme0133.github.io/CHY101)	|	Engineering Chemistry
+[++explore++](https://14bme0133.github.io/)		|	HOMEPAGE
+[++explore++](https://14bme0133.github.io/CHY101)	|	Engineering Chemistry
 [++explore++](https://14bme0133.github.io/CHY104)	|	Environmental Studies
 [++explore++](https://14bme0133.github.io/ENG101)	|	English for Engineers - I
 [++explore++](https://14bme0133.github.io/ENG102)	|	English for Engineers - II
@@ -60,18 +59,36 @@ See Also: [The CREATOR](https://N1X.site)
 [++explore++](https://14bme0133.github.io/MAT114)	|	Multivariable Calculus and Differential Equations
 [++explore++](https://14bme0133.github.io/MEE498)	|	Comprehensive Examination
 [++explore++](https://14bme0133.github.io/PHY101)	|	Modern Physics
-	|	
 [++explore++](https://14bme0133.github.io/MEE241)	|	Automotive Electronic and Instrumentation Systems
 [++explore++](https://14bme0133.github.io/MEE243)	|	Fundamentals of Mechatronics Systems
 [++explore++](https://14bme0133.github.io/MEE244)	|	Industrial Automation Controller
 [++explore++](https://14bme0133.github.io/MEE401)	|	Total Quality Management and Reliability
 [++explore++](https://14bme0133.github.io/MEE432)	|	Tool Design
-	|	
 [++explore++](https://14bme0133.github.io/STS201)	|	Soft Skills I
 [++explore++](https://14bme0133.github.io/STS202)	|	Soft Skills II
 [++explore++](https://14bme0133.github.io/STS301)	|	Soft Skills III
 [++explore++](https://14bme0133.github.io/STS302)	|	Soft Skills IV
-	|	
 [++explore++](https://14bme0133.github.io/CSE219)	|	OOP&P
 [++explore++](https://14bme0133.github.io/CSE109)	|	Digital Logic
+[++explore++](https://14bme0133.github.io/MEE1032)	|	MECHANICS OF SOLIDS AND FLUIDS
+[++explore++](https://14bme0133.github.io/MEE1032L)	|	MECHANICS OF SOLIDS AND FLUIDS (LAB)
 
+---
+
+
+
+---
+ - [X] The [Sitemap](sitemap.md) 
+ - [x] The [Impressum](info.md)
+ - [x] The [SecurityPAGE](security.md)
+ - [ ] The [ALLSpager](https://14bme0133.github.io/ALLS)
+
+---
+---
+---
+---
+
+
+All directions reserved.
+## (C) 2014-2018 NIKHIL '[itsN1X](https://n1x.site/)' PANDITA
+<14BME0133.github.io/>
