@@ -70,6 +70,10 @@ See Also: [The CREATOR](https://N1X.site)
 [++explore++](https://14bme0133.github.io/STS302)	|	Soft Skills IV
 [++explore++](https://14bme0133.github.io/CSE219)	|	OOP&P
 [++explore++](https://14bme0133.github.io/CSE109)	|	Digital Logic
+[++explore++](https://14bme0133.github.io/CSE219L)	|	Object Oriented Programming & Paradigm Lab
+[++explore++](https://14bme0133.github.io/MEE4006)	|	Computational Fluid Dynamics
+[++explore++](https://14bme0133.github.io/MEE4006L)	|	Computational Fluid Dynamics Lab
+[++explore++](https://14bme0133.github.io/CSE109L)	|	Digital Logic Laboartory
 [++explore++](https://14bme0133.github.io/MEE1032)	|	MECHANICS OF SOLIDS AND FLUIDS
 [++explore++](https://14bme0133.github.io/MEE1032L)	|	MECHANICS OF SOLIDS AND FLUIDS (LAB)
 
