@@ -8,8 +8,7 @@
 
 ### OR
 
-sendmailsto: 14BME0133[at]gmail[dot]com
-
+Message [×³](mailto:nikhil.pandita2014@vit.ac.in)
 
 ---
 
@@ -19,3 +18,8 @@ sendmailsto: 14BME0133[at]gmail[dot]com
 
 
 See [info](/info.md)
+
+
+----
+
+###### [Tip](bitcoin://1N1X8i5VuRS1BeMxiy5ZaeensjhsVWdQeC) Server
