@@ -6,9 +6,7 @@
    
 [http://14BME0133.github.io](http://14BME0133.github.io)
 
-### OR
-
-Message [×³](mailto:nikhil.pandita2014@vit.ac.in)
+###### [`eMail`;](mailto:nikhil.pandita2014@vit.ac.in)
 
 ---
 
@@ -17,7 +15,7 @@ Message [×³](mailto:nikhil.pandita2014@vit.ac.in)
 ##### Beware; \*X is "the" rabbit_hole()
 
 
-See [info](/info.md)
+See [info](/info.md) or view [all](/reps.md) available repositories.
 
 
 ----
