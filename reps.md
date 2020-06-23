@@ -153,8 +153,7 @@
 ---
 
 
-### VITAL CONTACTS
-
+### VITAL CONTACTS ✉
 
 - nikhil [dot] pandita2014 [at] vit [dot] ac [dot] as the 'Official (school) eMail-iD address`
 - @itsN1X on every network imaginable on tim's www
@@ -167,8 +166,9 @@
 
 ##### ALL DIRECTIONS reserved in a paper wallet
 Send $ETH love at `0xd6df5C1C8a2a5881E14855463cf576193c8721db`.  
-Visit [9xo/R](https://9xo.github.io/R/teb) if you got other love!  
+Visit [9xo/R](https://9xo.github.io/R/teb) if you got other love!
+
 ----
-|  [The index](index.md)  |  [The sitemap](sitemap.md)  |  [The README](README.md) |  [The CREATOR](https://google.com/search?q=itsN1X) |
-----
-|  [The info](info.md)  |  [The security](security.md)  |
+|  [Back to Home](../../)  |  [Sitemap](sitemap.md)  |  [README](README.md)   [Extras](info.md)  |  [Security](security.md)  |
+
+|  [CREA10R](https://google.com/search?q=itsN1X) :: [About them](https://about.me/itsN1X) | twitters:[14BME0133](https://twitter.com/14bme0133) [itsN1X](https://twitter.com/itsN1X) |
