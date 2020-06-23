@@ -9,7 +9,7 @@ description: VIT University, Vellore - 14BME0133 // FFCS
 
 ---
 
-#### [Coursework](http://github.com/14BME0133/CXX11.md) - [VIT University](http://github.com/VITUni) - [Curriculum Vitae](http://in.linkedin.com/in/itsN1X) - [Sitemap](http://github.com/14BME0133/wiki/)
+#### [Coursework](/CXX11.md) - [VIT University](http://github.com/VITUni) - [Curriculum Vitae](http://in.linkedin.com/in/itsN1X) - [Sitemap](/sitemap.md)
 (c) NIKHIL PANDITA 2014-2017.
 
 ### Authored and Contributed by :  
