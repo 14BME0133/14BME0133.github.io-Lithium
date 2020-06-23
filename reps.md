@@ -161,14 +161,14 @@
 - github / 14BME0133 `The source Organization for the general public `
 
 
-# (C) 2014-2018 <14BME0333/> NIKHIL :: PPA / xenon921
+# (C) 2014-* <14BME0333/> itsN1X :: PPA / xenon921
 ## `zzPRaf1N1X42af`
 
 
 ##### ALL DIRECTIONS reserved in a paper wallet
 Send $ETH love at `0xd6df5C1C8a2a5881E14855463cf576193c8721db`.  
-Visit [9xo/R](https://9xo.github.io/R/teb) if you got other love!
----
+Visit [9xo/R](https://9xo.github.io/R/teb) if you got other love!  
+----
 |  [The index](index.md)  |  [The sitemap](sitemap.md)  |  [The README](README.md) |  [The CREATOR](https://google.com/search?q=itsN1X) |
----
+----
 |  [The info](info.md)  |  [The security](security.md)  |
